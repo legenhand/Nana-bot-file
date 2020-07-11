@@ -1,0 +1,29 @@
+{
+  "Nana-bot" : {
+    "Author" : "Legenhand",
+    "repo-link" : "https://github.com/legenhand/Nana-Bot",
+    "version" : {
+      "latest" : {
+        "is-beta" : false,
+        "dockerfile" : "https://raw.githubusercontent.com/legenhand/Nana-Bot/master/Dockerfile",
+        "description" : "blablablaaa"
+      },
+      "v1.1.1b" : {
+        "is-beta" : false,
+        "dockerfile" : "https://raw.githubusercontent.com/legenhand/Nana-Bot/v1.1.1b/Dockerfile",
+        "description" : "old version of nana"
+      }
+    }
+  },
+  "Nana-Remix" : {
+    "Author" : "Pokurt",
+    "repo-link" : "https://github.com/pokurt/Nana-Remix",
+    "version" : {
+      "latest" : {
+        "is-beta" : false,
+        "dockerfile" : "https://raw.githubusercontent.com/pokurt/Nana-Remix/master/Dockerfile",
+        "description" : "blablablaaa"
+      }
+    }
+  }
+}
