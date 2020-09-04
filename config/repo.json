@@ -12,6 +12,11 @@
         "is-beta" : false,
         "dockerfile" : "https://raw.githubusercontent.com/legenhand/Nana-Bot/v1.1.1b/Dockerfile",
         "description" : "old version of nana"
+      },
+      "v2.1" : {
+        "is-beta" : false,
+        "dockerfile" : "https://raw.githubusercontent.com/legenhand/Nana-Bot/v2.1/Dockerfile",
+        "description" : "Version of Nana Using pyrogram 0.18"
       }
     }
   },
